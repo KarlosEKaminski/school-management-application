@@ -2,15 +2,6 @@
 
 <p align="center">Welcome to the School Management System repository! This Java application, backed by a MySQL database, allows you to efficiently manage students and professors within a school environment. Keep track of student and teacher information, perform updates, and manage deletions, all through a user-friendly interface.</p>
 
-## Table of Contents
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Database Setup](#database-setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🎯 Features
 
 - Add students and teachers with the following details:
@@ -52,9 +43,22 @@ Before you begin, ensure you have met the following requirements:
 4. Compile and run the code or dowload compiled version [here](dist/management_school.jar?raw=true) (after having put the password and username on code)
 5. Follow the GUI to use the application
 
+## 🤝 Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your proposed changes. For major changes, please open an issue first to discuss your ideas.
+
 ## 📄 License
-This project is licensed under the [MIT]()<br>
+This project is licensed under the [MIT](LICENSE.txt)<br>
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 <br>
 <br>
 <br>
+
+## 📸 Screenshots
+<div style="display: flex;">
+   <p align="center">
+      <img src="screenshots/register_student.png" alt="Screenshot register student" width="350"/>
+      <img src="screenshots/register_professor.png" alt="Screenshot register professor" width="350"/>
+      <img src="screenshots/manage_student.png" alt="Screenshot manage student" width="350"/>
+      <img src="screenshots/manage_professor.png" alt="Screenshot manage professor" width="350"/>
+   </p>
+</div>
